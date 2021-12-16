@@ -1,1 +1,1 @@
-vue js dockerize öreneği
+vue js dockerize örneği
